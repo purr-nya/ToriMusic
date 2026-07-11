@@ -1,0 +1,8 @@
+{
+  "name": "ToriMusic",
+  "description": "An immersive music client and audio visualization player designed with clean glassmorphic design and dynamic theme accent extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
